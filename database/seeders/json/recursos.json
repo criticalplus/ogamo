@@ -1,0 +1,7 @@
+[
+    {"name":"Metal", "photo_path":"/metal.png"},
+    {"name":"Cristal", "photo_path":"/cristal.png"},
+    {"name":"Deuterio", "photo_path":"/deuterio.png"},
+    {"name":"Electricidad", "photo_path":"/elect.png"}
+
+]

@@ -1,0 +1,7 @@
+[
+    {"name":"Mina de Metal", "photo_path":"/mina_metal.png","categoria":"recursos"},
+    {"name":"Mina de Cristal", "photo_path":"/mina_cristal.png","categoria":"recursos"},
+    {"name":"Mina de Deuterio", "photo_path":"/mina_deuterio.png","categoria":"recursos"},
+    {"name":"Central Solar", "photo_path":"/central_solar.png","categoria":"recursos"}
+
+]

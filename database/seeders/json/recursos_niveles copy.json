@@ -1,0 +1,175 @@
+[
+    //Mina Metal 1
+    {"nivel_id":"1","recurso_id":"1","coste":"20", "consumo":"0", "produccion":"150"},      //metal
+    {"nivel_id":"1","recurso_id":"2","coste":"10", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"1","recurso_id":"4","coste":"0", "consumo":"50", "produccion":"0"},        //Electricidad
+    //Mina Metal 2
+    {"nivel_id":"2","recurso_id":"1","coste":"50", "consumo":"0", "produccion":"400"},      //metal
+    {"nivel_id":"2","recurso_id":"2","coste":"20", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"2","recurso_id":"4","coste":"0", "consumo":"100", "produccion":"0"},        //Electricidad
+    //Mina Metal 3
+    {"nivel_id":"3","recurso_id":"1","coste":"180", "consumo":"0", "produccion":"1000"},      //metal
+    {"nivel_id":"3","recurso_id":"2","coste":"90", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"3","recurso_id":"4","coste":"0", "consumo":"200", "produccion":"0"},        //Electricidad
+    //Mina Metal 4
+    {"nivel_id":"4","recurso_id":"1","coste":"250", "consumo":"0", "produccion":"2000"},      //metal
+    {"nivel_id":"4","recurso_id":"2","coste":"150", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"4","recurso_id":"4","coste":"0", "consumo":"400", "produccion":"0"},        //Electricidad
+    //Mina Metal 5
+    {"nivel_id":"5","recurso_id":"1","coste":"800", "consumo":"0", "produccion":"5000"},      //metal
+    {"nivel_id":"5","recurso_id":"2","coste":"300", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"5","recurso_id":"4","coste":"0", "consumo":"800", "produccion":"0"},        //Electricidad
+    //Mina Metal 6
+    {"nivel_id":"6","recurso_id":"1","coste":"2500", "consumo":"0", "produccion":"10000"},      //metal
+    {"nivel_id":"6","recurso_id":"2","coste":"500", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"6","recurso_id":"4","coste":"0", "consumo":"1600", "produccion":"0"},        //Electricidad
+    //Mina Metal 7
+    {"nivel_id":"7","recurso_id":"1","coste":"6000", "consumo":"0", "produccion":"20000"},      //metal
+    {"nivel_id":"7","recurso_id":"2","coste":"800", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"7","recurso_id":"4","coste":"0", "consumo":"3200", "produccion":"0"},        //Electricidad
+    //Mina Metal 8
+    {"nivel_id":"8","recurso_id":"1","coste":"25000", "consumo":"0", "produccion":"50000"},      //metal
+    {"nivel_id":"8","recurso_id":"2","coste":"5000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"8","recurso_id":"4","coste":"0", "consumo":"6000", "produccion":"0"},        //Electricidad
+    //Mina Metal 9
+    {"nivel_id":"9","recurso_id":"1","coste":"80000", "consumo":"0", "produccion":"100000"},      //metal
+    {"nivel_id":"9","recurso_id":"2","coste":"10000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"9","recurso_id":"4","coste":"0", "consumo":"10000", "produccion":"0"},        //Electricidad
+    //Mina Metal 10
+    {"nivel_id":"10","recurso_id":"1","coste":"150000", "consumo":"0", "produccion":"250000"},      //metal
+    {"nivel_id":"10","recurso_id":"2","coste":"25000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"10","recurso_id":"4","coste":"0", "consumo":"15000", "produccion":"0"},        //Electricidad
+
+
+
+    
+    //Mina Cristal 1
+    {"nivel_id":"11","recurso_id":"1","coste":"20", "consumo":"0", "produccion":"150"},      //metal
+    {"nivel_id":"11","recurso_id":"2","coste":"10", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"11","recurso_id":"4","coste":"0", "consumo":"50", "produccion":"0"},        //Electricidad
+    //Mina Cristal 2
+    {"nivel_id":"12","recurso_id":"1","coste":"50", "consumo":"0", "produccion":"400"},      //metal
+    {"nivel_id":"12","recurso_id":"2","coste":"20", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"12","recurso_id":"4","coste":"0", "consumo":"100", "produccion":"0"},        //Electricidad
+    //Mina Cristal 3
+    {"nivel_id":"13","recurso_id":"1","coste":"180", "consumo":"0", "produccion":"1000"},      //metal
+    {"nivel_id":"13","recurso_id":"2","coste":"90", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"13","recurso_id":"4","coste":"0", "consumo":"200", "produccion":"0"},        //Electricidad
+    //Mina Cristal 4
+    {"nivel_id":"14","recurso_id":"1","coste":"250", "consumo":"0", "produccion":"2000"},      //metal
+    {"nivel_id":"14","recurso_id":"2","coste":"150", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"14","recurso_id":"4","coste":"0", "consumo":"400", "produccion":"0"},        //Electricidad
+    //Mina Cristal 5
+    {"nivel_id":"15","recurso_id":"1","coste":"800", "consumo":"0", "produccion":"5000"},      //metal
+    {"nivel_id":"15","recurso_id":"2","coste":"300", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"15","recurso_id":"4","coste":"0", "consumo":"800", "produccion":"0"},        //Electricidad
+    //Mina Cristal 6
+    {"nivel_id":"16","recurso_id":"1","coste":"2500", "consumo":"0", "produccion":"10000"},      //metal
+    {"nivel_id":"16","recurso_id":"2","coste":"500", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"16","recurso_id":"4","coste":"0", "consumo":"1600", "produccion":"0"},        //Electricidad
+    //Mina Cristal 7
+    {"nivel_id":"17","recurso_id":"1","coste":"6000", "consumo":"0", "produccion":"20000"},      //metal
+    {"nivel_id":"17","recurso_id":"2","coste":"800", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"17","recurso_id":"4","coste":"0", "consumo":"3200", "produccion":"0"},        //Electricidad
+    //Mina Cristal 8
+    {"nivel_id":"18","recurso_id":"1","coste":"25000", "consumo":"0", "produccion":"50000"},      //metal
+    {"nivel_id":"18","recurso_id":"2","coste":"5000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"18","recurso_id":"4","coste":"0", "consumo":"6000", "produccion":"0"},        //Electricidad
+    //Mina Cristal 9
+    {"nivel_id":"19","recurso_id":"1","coste":"80000", "consumo":"0", "produccion":"100000"},      //metal
+    {"nivel_id":"19","recurso_id":"2","coste":"10000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"19","recurso_id":"4","coste":"0", "consumo":"10000", "produccion":"0"},        //Electricidad
+    //Mina Cristal 10
+    {"nivel_id":"20","recurso_id":"1","coste":"150000", "consumo":"0", "produccion":"250000"},      //metal
+    {"nivel_id":"20","recurso_id":"2","coste":"25000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"20","recurso_id":"4","coste":"0", "consumo":"15000", "produccion":"0"}        //Electricidad
+
+
+    
+    //Mina Deuterio 1
+    {"nivel_id":"21","recurso_id":"1","coste":"20", "consumo":"0", "produccion":"150"},      //metal
+    {"nivel_id":"21","recurso_id":"2","coste":"10", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"21","recurso_id":"4","coste":"0", "consumo":"50", "produccion":"0"},        //Electricidad
+    //Mina Deuterio 2
+    {"nivel_id":"22","recurso_id":"1","coste":"50", "consumo":"0", "produccion":"400"},      //metal
+    {"nivel_id":"22","recurso_id":"2","coste":"20", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"22","recurso_id":"4","coste":"0", "consumo":"100", "produccion":"0"},        //Electricidad
+    //Mina Deuterio 3
+    {"nivel_id":"23","recurso_id":"1","coste":"180", "consumo":"0", "produccion":"1000"},      //metal
+    {"nivel_id":"23","recurso_id":"2","coste":"90", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"23","recurso_id":"4","coste":"0", "consumo":"200", "produccion":"0"},        //Electricidad
+    //Mina Deuterio 4
+    {"nivel_id":"24","recurso_id":"1","coste":"250", "consumo":"0", "produccion":"2000"},      //metal
+    {"nivel_id":"24","recurso_id":"2","coste":"150", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"24","recurso_id":"4","coste":"0", "consumo":"400", "produccion":"0"},        //Electricidad
+    //Mina Deuterio 5
+    {"nivel_id":"25","recurso_id":"1","coste":"800", "consumo":"0", "produccion":"5000"},      //metal
+    {"nivel_id":"25","recurso_id":"2","coste":"300", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"25","recurso_id":"4","coste":"0", "consumo":"800", "produccion":"0"},        //Electricidad
+    //Mina Deuterio 6
+    {"nivel_id":"26","recurso_id":"1","coste":"2500", "consumo":"0", "produccion":"10000"},      //metal
+    {"nivel_id":"26","recurso_id":"2","coste":"500", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"26","recurso_id":"4","coste":"0", "consumo":"1600", "produccion":"0"},        //Electricidad
+    //Mina Deuterio 7
+    {"nivel_id":"27","recurso_id":"1","coste":"6000", "consumo":"0", "produccion":"20000"},      //metal
+    {"nivel_id":"27","recurso_id":"2","coste":"800", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"27","recurso_id":"4","coste":"0", "consumo":"3200", "produccion":"0"},        //Electricidad
+    //Mina Deuterio 8
+    {"nivel_id":"28","recurso_id":"1","coste":"25000", "consumo":"0", "produccion":"50000"},      //metal
+    {"nivel_id":"28","recurso_id":"2","coste":"5000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"28","recurso_id":"4","coste":"0", "consumo":"6000", "produccion":"0"},        //Electricidad
+    //Mina Deuterio 9
+    {"nivel_id":"29","recurso_id":"1","coste":"80000", "consumo":"0", "produccion":"100000"},      //metal
+    {"nivel_id":"29","recurso_id":"2","coste":"10000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"29","recurso_id":"4","coste":"0", "consumo":"10000", "produccion":"0"},        //Electricidad
+    //Mina Deuterio 10
+    {"nivel_id":"30","recurso_id":"1","coste":"150000", "consumo":"0", "produccion":"250000"},      //metal
+    {"nivel_id":"30","recurso_id":"2","coste":"25000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"30","recurso_id":"4","coste":"0", "consumo":"15000", "produccion":"0"}        //Electricidad
+
+
+    
+    //Mina Cristal 1
+    {"nivel_id":"31","recurso_id":"1","coste":"20", "consumo":"0", "produccion":"150"},      //metal
+    {"nivel_id":"31","recurso_id":"2","coste":"10", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"31","recurso_id":"4","coste":"0", "consumo":"50", "produccion":"0"},        //Electricidad
+    //Mina Cristal 2
+    {"nivel_id":"32","recurso_id":"1","coste":"50", "consumo":"0", "produccion":"400"},      //metal
+    {"nivel_id":"32","recurso_id":"2","coste":"20", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"32","recurso_id":"4","coste":"0", "consumo":"100", "produccion":"0"},        //Electricidad
+    //Mina Cristal 3
+    {"nivel_id":"33","recurso_id":"1","coste":"180", "consumo":"0", "produccion":"1000"},      //metal
+    {"nivel_id":"33","recurso_id":"2","coste":"90", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"33","recurso_id":"4","coste":"0", "consumo":"200", "produccion":"0"},        //Electricidad
+    //Mina Cristal 4
+    {"nivel_id":"34","recurso_id":"1","coste":"250", "consumo":"0", "produccion":"2000"},      //metal
+    {"nivel_id":"34","recurso_id":"2","coste":"150", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"34","recurso_id":"4","coste":"0", "consumo":"400", "produccion":"0"},        //Electricidad
+    //Mina Cristal 5
+    {"nivel_id":"35","recurso_id":"1","coste":"800", "consumo":"0", "produccion":"5000"},      //metal
+    {"nivel_id":"35","recurso_id":"2","coste":"300", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"35","recurso_id":"4","coste":"0", "consumo":"800", "produccion":"0"},        //Electricidad
+    //Mina Cristal 6
+    {"nivel_id":"36","recurso_id":"1","coste":"2500", "consumo":"0", "produccion":"10000"},      //metal
+    {"nivel_id":"36","recurso_id":"2","coste":"500", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"36","recurso_id":"4","coste":"0", "consumo":"1600", "produccion":"0"},        //Electricidad
+    //Mina Cristal 7
+    {"nivel_id":"37","recurso_id":"1","coste":"6000", "consumo":"0", "produccion":"20000"},      //metal
+    {"nivel_id":"37","recurso_id":"2","coste":"800", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"37","recurso_id":"4","coste":"0", "consumo":"3200", "produccion":"0"},        //Electricidad
+    //Mina Cristal 8
+    {"nivel_id":"38","recurso_id":"1","coste":"25000", "consumo":"0", "produccion":"50000"},      //metal
+    {"nivel_id":"38","recurso_id":"2","coste":"5000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"38","recurso_id":"4","coste":"0", "consumo":"6000", "produccion":"0"},        //Electricidad
+    //Mina Cristal 9
+    {"nivel_id":"39","recurso_id":"1","coste":"80000", "consumo":"0", "produccion":"100000"},      //metal
+    {"nivel_id":"39","recurso_id":"2","coste":"10000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"39","recurso_id":"4","coste":"0", "consumo":"10000", "produccion":"0"},        //Electricidad
+    //Mina Cristal 10
+    {"nivel_id":"40","recurso_id":"1","coste":"150000", "consumo":"0", "produccion":"250000"},      //metal
+    {"nivel_id":"40","recurso_id":"2","coste":"25000", "consumo":"0", "produccion":"0"},        //Cristal
+    {"nivel_id":"40","recurso_id":"4","coste":"0", "consumo":"15000", "produccion":"0"}        //Electricidad
+
+
+
+]
